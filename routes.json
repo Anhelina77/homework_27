@@ -1,0 +1,7 @@
+{
+  "/todo/board/:board": "/todo?board=:board",
+  "/todo/board/:board/completed": "/todo?board=:board&checked=true",
+  "/todo/board/:board/completed?:params": "/todo?board=:board&checked=true&:params",
+  "/todo/board/:board/active": "/todo?board=:board&checked=false",
+  "/todo/board/:board/active?:params": "/todo?board=:board&checked=false&:params"
+}

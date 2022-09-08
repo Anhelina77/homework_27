@@ -1,0 +1,37 @@
+{
+  "todo": [
+    {
+      "_id": 1,
+      "user": "Test user",
+      "value": "test",
+      "checked": false,
+      "addedAt": "2021-10-14T09:50:33.109Z",
+      "updatedAt": "2021-10-14T09:50:33.109Z",
+      "priority": 1,
+      "id": 1
+    },
+    {
+      "_id": 2,
+      "user": "Test user",
+      "value": "Buy license for WebStorm =)",
+      "checked": true,
+      "addedAt": "2021-10-14T09:50:33.109Z",
+      "updatedAt": "2021-10-14T09:50:33.109Z",
+      "priority": 1,
+      "id": 2
+    }
+  ],
+  "boards": [
+    {
+      "id": 0,
+      "_id": "1",
+      "name": "develop"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User"
+    }
+  ]
+}
